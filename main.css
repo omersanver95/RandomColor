@@ -1,0 +1,27 @@
+
+.content{
+    background-color: #2D2E2C;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 60px 90px;
+    
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.wrapper{
+    font-size: 42px;
+    font-weight: 500;
+}
+.wrapper .title{
+    color: white;
+    margin-right: 24px;
+    font-size: 42px;
+    font-weight: 500;
+}
+#color{
+    color: white;
+}
